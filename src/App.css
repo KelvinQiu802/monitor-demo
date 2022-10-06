@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.outer {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+}
+
+.middle {
+  width: 150px;
+  height: 150px;
+  background-color: orange;
+}
+
+.inner {
+  width: 100px;
+  height: 100px;
+  background-color: yellowgreen;
+}
